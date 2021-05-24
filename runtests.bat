@@ -1,0 +1,1 @@
+1testrunner  ./tests/releaser_tests.os -runall
