@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
     <name>Releaser</name>
-    <version>0.0.1</version>
+    <version>1.2.1</version>
     <author>Vladimir Stupnikov</author>
     <author-email>stupnikov.vg@gmail.com</author-email>
     <description>Создание релизов GitLab</description>
